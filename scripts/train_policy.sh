@@ -4,7 +4,7 @@
 # bash scripts/train_policy.sh simple_dp3 adroit_hammer 0322 0 0
 # bash scripts/train_policy.sh dp3 metaworld_basketball 0602 0 0
 
-
+# bash scripts/train_policy.sh dp3 metafold 0129 0 0
 
 DEBUG=False
 save_ckpt=True
